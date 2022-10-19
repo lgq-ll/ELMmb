@@ -1,0 +1,16 @@
+{
+	"Authorization":"40f0bec893bbc0c7ccd90727aa91baf2",
+    "Title": "标题",
+    "Announcement": "饿了么短信提交",
+    "wxpusher_token":"AT_04vciQyVSdIJXpL6pztETG5054fDz5n2",
+    "Config": [
+        {
+            "QLkey": 1,
+            "QLName": "饿了么短信登录面板",
+            "QLurl": "http://10.10.10.6:5701",
+            "QL_CLIENTID": "V_5WkRtPxIYj",
+            "QL_SECRET": "xYLthHXFdD-bG4CGb_SWH76B",
+            "QL_CAPACITY": 100
+        }
+    ]
+}
